@@ -6,4 +6,4 @@ def power(x,y=2):
 
 a = 10
 b = 5
-print ("result is ", power(a,b))
+print ("the result is ", power(a,b))
