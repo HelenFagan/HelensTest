@@ -6,7 +6,4 @@ def power(x,y=2):
 
 a = 10
 b = 5
-<<<<<<< HEAD
-=======
-
->>>>>>> b7b626418f463af60a51172bd22a4498247b99c8
+print ('the result is ' , power(10,5))
