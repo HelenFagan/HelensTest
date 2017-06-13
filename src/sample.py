@@ -5,5 +5,5 @@ def power(x,y=2):
    return result
 
 a = 10
-b = 3
+b = 5
 print ("result is ", power(a,b))
